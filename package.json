@@ -1,0 +1,17 @@
+{
+  "name": "blender-mixer",
+  "version": "1.0.0",
+  "description": "Script to interact with the Blender contract",
+  "main": "blender.js",
+  "scripts": {
+    "start": "node blender.js"
+  },
+  "dependencies": {
+    "chalk": "4",
+    "cli-table3": "^0.6.5",
+    "dotenv": "^10.0.0",
+    "ethers": "^5.8.0"
+  },
+  "author": "Deface",
+  "license": "MIT"
+}
